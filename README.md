@@ -32,6 +32,17 @@ Textual transcriptions of recorded speech with annotations marking the stutterin
 
 Each transcript includes timestamps and stutter type labels.
 
+- **File Format Explanation:**
+  - Each stuttering instance is represented by **two lines**:
+    1. The **first line** shows start time, end time, and stutter type.
+    2. The **second line** repeats the timestamps followed by the stuttered word or phrase.
+   
+    For Example :
+        5.526907	6.871290	SR
+        5.526907	6.871290	s s sunset
+        8.723551	9.739307	SR
+        8.723551	9.739307	b b boating
+
 ---
 
 ### 3. Audio Files
