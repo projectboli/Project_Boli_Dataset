@@ -70,5 +70,7 @@ Project Boli can be used for:
 
 ## 📄 Citation
 
-Please cite the dataset as follows:
+A. Batra, M. Narang, N. K. Sharma and P. K. Das, "Boli: A dataset for understanding stuttering experience and analyzing stuttered speech," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-4, doi: 10.1109/ICASSP49660.2025.10888349. keywords: {Tongue;Annotations;Open Access;Event detection;Manuals;Signal processing;Data collection;Acoustics;Multilingual;Speech processing;Indian stuttered speech dataset;Intelligibility assessment;read speech;spontaneous speech;Stuttering event detection},
+
+
 
