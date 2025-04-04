@@ -39,7 +39,7 @@ Each transcript includes timestamps and stutter type labels.
    
     For Example :
 
-      | 5.526907   | 6.871290   | SR           |
+      | 5.526907   | 6.871290   | SR           | <br>
       | 5.526907   | 6.871290   | s s sunset   |
 
 
