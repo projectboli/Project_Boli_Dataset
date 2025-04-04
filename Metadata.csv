@@ -1,0 +1,29 @@
+age,gender,country,city,mother_tongue,languages,do_you_stutter_while_speaking,how_severe_is_your_stuttering,uId
+32,Male,India,Gurgaon,Hindi,3,often,moderate,14446
+21,Male,India,Ganganagar,Hindi,4,often,moderate,862202
+17,Male,India,Jaipur,Hindi,2,often,severe,72602
+40,Male,India,Gujrat,Hindi,5,often,moderate,68597
+20,Male,India,Dwarka,Hindi,1,sometimes,Mild,203812
+17,Female,India,Rohtak,Hindi,2,sometimes,Mild,727253
+19,Male,India,Bhiwani,Hindi,1,sometimes,mild,662473
+18,Male,India,Delhi ,Hindi,3,sometimes,moderate,479756
+33,Male,India,Delhi,Hindi,5,sometimes,Mild,647068
+21,Male,India,Bhopal,Hindi,2,sometimes,moderate,391990
+30,Male,India,Delhi,Hindi,2,often,moderate,811361
+30,Male,India,Sohna,Hindi,2,sometimes,Mild,976172
+28,Male,India,Bangalore,Hindi,4,often,moderate,320465
+20,Male,India,Gaya,Hindi,2,often,severe,596658
+21,Male,India,Thane ,Marathi,3,sometimes,mild,420469
+37,Male,India,Durgapur ,Hindi,2,often,moderate,717850
+28,Male,India,Eluru,Telugu,2,often,severe,424300
+48,Male,India,Hyderabad,Hindi,4,often,moderate,271033
+26,Male,India,Siwan,Hindi,3,sometimes,moderate,542361
+22,Male,India,Bharatpur,Hindi,3,sometimes,moderate,585103
+31,Male,India,"Rangia, Assam",Bengali,4,often,severe,254562
+20,Male,India,Guwahati,Assamese,3,sometimes,Mild,585062
+22,Female,India,Brisbane,Hindi,2,sometimes,moderate,452419
+24,Female,India,Guwahati ,Bengali,4,often,Mild,53175
+24,Male,India,Rajasthan ,Hindi,2,sometimes,mild,340449
+25,Male,India,Gurgram,Hindi,2,sometimes,moderate,31038
+27,Male,India,Varanasi ,Hindi,2,sometimes,moderate,146185
+34,Male,India,Bangalore,Telugu,4,sometimes,mild,483424
