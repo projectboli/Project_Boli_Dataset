@@ -38,11 +38,12 @@ Each transcript includes timestamps and stutter type labels.
     2. The **second line** repeats the timestamps followed by the stuttered word or phrase.
    
     For Example :
-      |------------|-----------|--------------|
-      | 5.526907   | 6.871290  | SR           |   
+      | 5.526907   | 6.871290  | SR           |
       | 5.526907   | 6.871290  | s s sunset   |
       | 8.723551   | 9.739307  | SR           |
       | 8.723551   | 9.739307  | b b boating  |
+      | 11.770818  | 12.607323 | SR           |
+      | 11.770818  | 12.607323 | l l lake     |
 
 
 ---
