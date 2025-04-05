@@ -1,6 +1,6 @@
 # Project Boli Dataset
 
-**Project Boli** is a multimodal dataset developed to support research into the characteristics, dynamics, and impact of stuttering. It contains synchronized audio, text, and metadata collected from individuals who stutter. The dataset is intended for use by researchers, clinicians, and speech-language professionals.
+**Project Boli** is a multilingual dataset developed to support research into the characteristics and impact of stuttering. It contains synchronized audio, text, and metadata collected from individuals who stutter. The dataset is intended for use by researchers, clinicians, and speech-language professionals.
 
 ---
 
@@ -11,7 +11,7 @@ Stuttering events in the dataset are categorized into the following five types:
 
 | Code | Type             | Description                                      |
 |------|------------------|--------------------------------------------------|
-| B    | Block            | Sudden interruption or cessation of speech      |
+| B    | Block            | Pausing or blockage in speech                    |
 | IN   | Interjections    | Unintended insertions of sounds or words        |
 | PR   | Prolongations    | Unusually extended sounds within a word         |
 | SR   | Sound Repetition | Repetition of syllables or individual sounds    |
@@ -35,34 +35,29 @@ Each transcript includes timestamps and stutter type labels.
 - **File Format Explanation:**
   - Each stuttering instance is represented by **two lines**:
     1. The **first line** shows start time, end time, and stutter type.
-    2. The **second line** repeats the timestamps followed by the stuttered word or phrase.
+    2. The **second line** repeats the timestamps followed by the stuttered word.
    
     For Example :
 
-      | 5.526907   | 6.871290   | SR           | <br>
+      | 5.526907   | 6.871290   | SR           |
       | 5.526907   | 6.871290   | s s sunset   |
 
 
 ---
 
 ### 3. Audio Files
-`.wav` audio clips representing stuttering events.
+`.wav` audio clips representing stuttering events corresponding to which the transcripts are provided..
 
-- **Naming Convention:**
-  - `B_fortell.wav`  
-    - `B`: Block stutter  
-    - `fortell`: Word during which the stutter occurred
 
-Clips are aligned with transcript data.
+Provided audio clips are aligned with transcript data.
 
 ---
 
-### 4. Excel Metadata File
-An Excel spreadsheet containing:
+### 4. Excel Metadata and Questionnaire File
+Excel spreadsheet contains:
 
 - Demographic details (e.g., age, gender)
 - Questionnaire responses related to life experiences with stuttering
-- Language background and task information
 
 This data supports in-depth analysis and cross-referencing with audio/text features.
 
